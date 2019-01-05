@@ -1,0 +1,191 @@
+{
+    "code": 0,
+    "data": {
+      "aDate": "2017-12-14", // 发行时间
+      "albumTips": "",
+      "color": 11573895,
+      "company": "维音唱片",
+      "company_new": {
+        "brief": "",
+        "headPic": "",
+        "id": 13311,
+        "is_show": 1,
+        "name": "维音唱片" // 发行公司
+      },
+      "cur_song_num": 3,
+      "desc": "歌手张笑晨 2017年原创单曲《可不可以勇敢》首发！请记得我，从你的全世界路过…",
+      "genre": "Pop 流行", // 流派
+      "id": 3768943,
+      "lan": "国语", // 语种
+      "list": [
+        {
+          "albumdesc": "",
+          "albumid": 3768943,
+          "albummid": "001a46gn1j8WML",
+          "albumname": "可不可以勇敢",
+          "alertid": 11,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 300,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 2079865,
+              "mid": "001TIyq72MIuZX",
+              "name": "张笑晨"
+            }
+          ],
+          "size128": 4817183,
+          "size320": 12042653,
+          "size5_1": 0,
+          "sizeape": 29475714,
+          "sizeflac": 29529874,
+          "sizeogg": 6773643,
+          "songid": 212445001,
+          "songmid": "000vroiH4JLZAd",
+          "songname": "可不可以勇敢",
+          "songorig": "可不可以勇敢",
+          "songtype": 0,
+          "strMediaMid": "000vroiH4JLZAd",
+          "stream": 13,
+          "switch": 603923,
+          "type": 0,
+          "vid": ""
+        },
+        {
+          "albumdesc": "",
+          "albumid": 3768943,
+          "albummid": "001a46gn1j8WML",
+          "albumname": "可不可以勇敢",
+          "alertid": 11,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 300,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 2079865,
+              "mid": "001TIyq72MIuZX",
+              "name": "张笑晨"
+            }
+          ],
+          "size128": 4817191,
+          "size320": 12042661,
+          "size5_1": 0,
+          "sizeape": 26221142,
+          "sizeflac": 26235584,
+          "sizeogg": 7095925,
+          "songid": 212445002,
+          "songmid": "000rhxXj1sagKA",
+          "songname": "可不可以勇敢 (伴奏)",
+          "songorig": "可不可以勇敢",
+          "songtype": 0,
+          "strMediaMid": "000rhxXj1sagKA",
+          "stream": 13,
+          "switch": 599827,
+          "type": 0,
+          "vid": ""
+        },
+        {
+          "albumdesc": "",
+          "albumid": 3768943,
+          "albummid": "001a46gn1j8WML",
+          "albumname": "可不可以勇敢",
+          "alertid": 11,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 221,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 0,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 0,
+            "payinfo": 0,
+            "payplay": 0,
+            "paytrackmouth": 0,
+            "paytrackprice": 0,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 2079865,
+              "mid": "001TIyq72MIuZX",
+              "name": "张笑晨"
+            }
+          ],
+          "size128": 3541566,
+          "size320": 8853618,
+          "size5_1": 0,
+          "sizeape": 25979885,
+          "sizeflac": 26077917,
+          "sizeogg": 5243989,
+          "songid": 212594073,
+          "songmid": "000uDUTX3Rr87n",
+          "songname": "半壶纱",
+          "songorig": "半壶纱",
+          "songtype": 0,
+          "strMediaMid": "000uDUTX3Rr87n",
+          "stream": 13,
+          "switch": 603923,
+          "type": 0,
+          "vid": ""
+        } // 专辑中的歌曲
+      ],
+      "mid": "001a46gn1j8WML", // 专辑mid
+      "name": "可不可以勇敢", // 专辑名称
+      "radio_anchor": 0,
+      "singerid": 2079865,
+      "singermblog": null,
+      "singermid": "001TIyq72MIuZX",
+      "singername": "张笑晨",
+      "song_begin": 0,
+      "total": 3,
+      "total_song_num": 3
+    },
+    "message": "succ",
+    "subcode": 0
+}

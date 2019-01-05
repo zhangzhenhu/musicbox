@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "action": {
+        "alert": 2,
+        "icons": 147324,
+        "msgdown": 0,
+        "msgfav": 0,
+        "msgid": 14,
+        "msgpay": 6,
+        "msgshare": 0,
+        "switch": 17413891
+      },
+      "album": {
+        "id": 1830376,
+        "mid": "001Qx34t4HZI7L",
+        "name": "Songs of Love",
+        "subtitle": "",
+        "time_public": "2017-02-06",
+        "title": "Songs of Love"
+      },
+      "bpm": 85,
+      "data_type": 0,
+      "file": {
+        "b_30s": 0,
+        "e_30s": 0,
+        "hires_bitdepth": 0,
+        "hires_sample": 0,
+        "media_mid": "0038Qleh2QnBQh",
+        "size_128mp3": 3775623,
+        "size_192aac": 5530220,
+        "size_192ogg": 5233551,
+        "size_24aac": 745308,
+        "size_320mp3": 9438761,
+        "size_48aac": 1475448,
+        "size_96aac": 2951636,
+        "size_ape": 24184887,
+        "size_dts": 0,
+        "size_flac": 24341827,
+        "size_hires": 0,
+        "size_try": 0,
+        "try_begin": 45084,
+        "try_end": 86909,
+        "url": ""
+      },
+      "fnote": 4009,
+      "genre": 1,
+      "id": 200439449,
+      "index_album": 6,
+      "index_cd": 0,
+      "interval": 235,
+      "isonly": 1,
+      "ksong": {
+        "id": 2485898,
+        "mid": "001LNbt30DIae1"
+      },
+      "label": "0",
+      "language": 1,
+      "mid": "001uRmMb3GQH8b",
+      "modify_stamp": 0,
+      "mv": {
+        "id": 1078212,
+        "name": "",
+        "title": "",
+        "vid": "m0022g5uhbq"
+      },
+      "name": "\xe9\x9a\xbe\xe5\xbe\x97\xe4\xb8\x80\xe9\x81\x87",
+      "pay": {
+        "pay_down": 1,
+        "pay_month": 1,
+        "pay_play": 0,
+        "pay_status": 0,
+        "price_album": 0,
+        "price_track": 200,
+        "time_free": 0
+      },
+      "singer": [
+        {
+          "id": 23316,
+          "mid": "003Hk8ck2WMjKV",
+          "name": "\xe6\x9e\x97\xe5\xa5\x95\xe5\x8c\xa1",
+          "title": "\xe6\x9e\x97\xe5\xa5\x95\xe5\x8c\xa1",
+          "type": 0,
+          "uin": 0
+        }
+      ],
+      "status": 0,
+      "subtitle": "",
+      "time_public": "2017-02-06",
+      "title": "\xe9\x9a\xbe\xe5\xbe\x97\xe4\xb8\x80\xe9\x81\x87",
+      "trace": "",
+      "type": 0,
+      "url": "http://stream7.qqmusic.qq.com/212439449.wma",
+      "version": 0,
+      "volume": {
+        "gain": -6.9110,
+        "lra": 13.0750,
+        "peak": 1
+      }
+    }
+  ],
+  "url": {
+    "200439449": "ws.stream.qqmusic.qq.com/C100001uRmMb3GQH8b.m4a?fromtag=38"
+  },
+  "url1": {},
+  "extra_data": [],
+  "joox": 0,
+  "joox_login": 0,
+  "msgid": 0
+}

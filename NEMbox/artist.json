@@ -1,0 +1,1673 @@
+{
+  "code": 200,
+  "artist": {
+    "img1v1Id": 65970697683660,
+    "topicPerson": 0,
+    "picId": 65970697683655,
+    "followed": false,
+    "alias": [],
+    "briefDesc": "4 in Love\uff0c\u5b9d\u5c9b\u53f0\u6e7e\u7684\u6b4c\u5531\u7ec4\u5408\uff0c\u662fBMG\u516c\u53f8\u6253\u9020\u7684\u5168\u7403\u7b2c\u4e00\u652f3D\u7f8e\u5c11\u5973\u865a\u62df\u56e2\u4f53\uff0c\u5206\u522b\u662f\u9633\u5149\u578b\u7684Sunnie\u3001\u53ef\u7231\u578b\u7684Rainie\u3001\u68a6\u5e7b\u578b\u7684Windie\u548c\u6c89\u7a33\u578b\u7684Cloudie\u5171\u56db\u4f4d\u7f8e\u5c11\u5973\uff0c\u6210\u7acb\u4e8e2000\u5e74\uff0c\u97f3\u4e50\u8d70\u5411\u4ee5\u7565\u5e26\u672a\u6765\u611f\u7684\u67d4\u7f8e\u6292\u60c5\u6b4c\u66f2\u4e3a\u4e3b\uff0c\u53e6\u5916\u4e5f\u6709\u7ed3\u5408\u6447\u6eda\u4e0e\u7535\u5b50\u8282\u62cd\u7684\u52a8\u611f\u6b4c\u66f2\uff0c\u5e55\u540e\u4ee3\u5531\u7684\u56db\u4eba\u5e74\u9f84\u7686\u5728\u5341\u516d\u5c81\u5230\u5341\u4e5d\u5c81\u4e4b\u95f4\uff0c\u5206\u522b\u4e3a\u51b7\u5609\u7433\u3001\u9ec4\u5c0f\u67d4\u3001\u6768\u4e1e\u7433\u4ee5\u53ca\u5f20\u68cb\u60e0\uff0c\u5747\u58f0\u97f3\u7a1a\u5ae9\u751c\u7f8e\u3001\u9752\u6625\u6d0b\u6ea2\uff0c\u5df2\u4e8e2001\u5e74\u89e3\u6563\u3002\u4ee3\u8868\u4f5c\u6709\u300a\u4e00\u5343\u96f6\u4e00\u4e2a\u613f\u671b\u300b\u3001\u300a\u518d\u89c1\u4e2d\u56fd\u6d77\u300b\u3001\u300a\u8c01\u6015\u8c01\u300b\u7b49\u3002",
+    "albumSize": 2,
+    "img1v1Url": "https://p3.music.126.net/MZ-ZbwP-mBAyEy1-IbTn7A==/65970697683660.jpg",
+    "picUrl": "https://p3.music.126.net/wdStD0IgOe0pwtQHE6Jb1Q==/65970697683655.jpg",
+    "trans": "",
+    "musicSize": 20,
+    "name": "4 In Love",
+    "id": 13727,
+    "publishTime": 0,
+    "mvSize": 6
+  },
+  "more": false,
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 3,
+      "cd": "1",
+      "pst": 0,
+      "crbt": "981aaae6c70b7060b6c75e75f13ece25",
+      "rtUrl": null,
+      "v": 56,
+      "alia": [],
+      "pop": 100.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 258377,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10336174,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4134496,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6201722,
+        "vd": 0.0
+      },
+      "mv": 5620431,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u4e00\u5343\u96f6\u4e00\u4e2a\u613f\u671b",
+      "id": 398341,
+      "privilege": {
+        "id": 398341,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 6,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 53,
+      "alia": [],
+      "pop": 95.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 267755,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10711293,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4284543,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6426793,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u547d\u4e2d\u6ce8\u5b9a",
+      "id": 398344,
+      "privilege": {
+        "id": 398344,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p4.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 10,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 80.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 300878,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 12036223,
+        "vd": -1.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4814515,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 7221751,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u518d\u89c1\u4e2d\u56fd\u6d77",
+      "id": 398387,
+      "privilege": {
+        "id": 398387,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p4.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 2,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 58,
+      "alia": [],
+      "pop": 80.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 228310,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9133497,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3653425,
+        "vd": -1.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5480115,
+        "vd": -1.0
+      },
+      "mv": 5643351,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u8c01\u6015\u8c01",
+      "id": 398339,
+      "privilege": {
+        "id": 398339,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 132,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p4.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 1,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 58,
+      "alia": [],
+      "pop": 35.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 242155,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9686248,
+        "vd": -3.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3874525,
+        "vd": -3.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5811766,
+        "vd": -3.0
+      },
+      "mv": 5643348,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "Fall In Love",
+      "id": 398361,
+      "privilege": {
+        "id": 398361,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p3.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 4,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 317727,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 12709138,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 5083681,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 7625500,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u7231\u8fd8\u5728",
+      "id": 398367,
+      "privilege": {
+        "id": 398367,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p3.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 3,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 56,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 232306,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9293366,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3717373,
+        "vd": -2.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5576037,
+        "vd": -2.0
+      },
+      "mv": 5620432,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "Print My Heart",
+      "id": 398365,
+      "privilege": {
+        "id": 398365,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 1,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 285936,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 11438542,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4575443,
+        "vd": -1.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6863142,
+        "vd": -1.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u604b\u7231\u9769\u547d",
+      "id": 398337,
+      "privilege": {
+        "id": 398337,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p4.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 7,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 209057,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8362362,
+        "vd": -1.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3344971,
+        "vd": -1.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5017435,
+        "vd": -1.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u89e6\u7535",
+      "id": 398345,
+      "privilege": {
+        "id": 398345,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 132,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p3.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 7,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 230243,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9210819,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3684354,
+        "vd": -2.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5526509,
+        "vd": -2.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u7231\u7684\u7948\u7977",
+      "id": 398378,
+      "privilege": {
+        "id": 398378,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p4.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 4,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 54,
+      "alia": [],
+      "pop": 25.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 253648,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10147048,
+        "vd": -1.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4058845,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6088246,
+        "vd": 0.0
+      },
+      "mv": 5643349,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u4ed6\u5230\u5e95\u90a3\u4e00\u70b9\u597d",
+      "id": 398342,
+      "privilege": {
+        "id": 398342,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 5,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 240927,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9637138,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3854881,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5782300,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u6700\u9a84\u50b2\u7684\u4e8b",
+      "id": 398343,
+      "privilege": {
+        "id": 398343,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p4.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 9,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 271882,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10875342,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4350163,
+        "vd": -1.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6525222,
+        "vd": -1.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u6539\u53d8\u81ea\u5df1",
+      "id": 398349,
+      "privilege": {
+        "id": 398349,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 10,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 248502,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9940158,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3976089,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5964112,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "You & Me",
+      "id": 398352,
+      "privilege": {
+        "id": 398352,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p4.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 5,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 238706,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9549366,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3819773,
+        "vd": -1.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5729637,
+        "vd": -2.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u7231\u60c5\u9b54\u6cd5\u4e66",
+      "id": 398371,
+      "privilege": {
+        "id": 398371,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p4.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 2,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 56,
+      "alia": [],
+      "pop": 20.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 234422,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9378003,
+        "vd": -4.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3751227,
+        "vd": -3.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5626819,
+        "vd": -3.0
+      },
+      "mv": 5643350,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u4f60\u4f11\u60f3",
+      "id": 398363,
+      "privilege": {
+        "id": 398363,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p3.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 6,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 280581,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 11224338,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4489761,
+        "vd": -2.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6734620,
+        "vd": -2.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u83ab\u975e",
+      "id": 398375,
+      "privilege": {
+        "id": 398375,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p4.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 8,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 52,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 234057,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9362329,
+        "vd": -2.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3744958,
+        "vd": -2.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5617415,
+        "vd": -2.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u8d85\u65f6\u7a7a\u8981\u7231",
+      "id": 398381,
+      "privilege": {
+        "id": 398381,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39401,
+        "name": "\u8c01\u6015\u8c01",
+        "picUrl": "https://p3.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+        "pic_str": "18270584719324655",
+        "pic": 18270584719324655
+      },
+      "st": 3,
+      "no": 8,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 48,
+      "alia": [],
+      "pop": 15.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 262452,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10498133,
+        "vd": 0.0
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4199279,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6298897,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u60f3Say Yes",
+      "id": 398347,
+      "privilege": {
+        "id": 398347,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 132,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 39404,
+        "name": "4 In Love",
+        "picUrl": "https://p3.music.126.net/uaqDAar05DXK0uaP5XfB5w==/109951163244877074.jpg",
+        "pic_str": "109951163244877074",
+        "pic": 109951163244877074
+      },
+      "st": 3,
+      "no": 9,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 53,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 261328,
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10453203,
+        "vd": -0.0001
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4181307,
+        "vd": 0.0
+      },
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6271939,
+        "vd": 0.0
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "\u501f\u6211\u4f60\u7684\u624b",
+      "id": 398384,
+      "privilege": {
+        "id": 398384,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 513038,
+        "name": "\u5de8\u661f\u57ce(2000-2001\u60ca\u9009\u96c6)",
+        "picUrl": "https://p3.music.126.net/IPU3TnB1kG29RUSanJCk6Q==/62672162800271.jpg",
+        "pic_str": "62672162800271",
+        "pic": 62672162800271
+      },
+      "st": 3,
+      "no": 4,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 667,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 244402,
+      "h": {
+        "br": 320000,
+        "fid": 1219358395210853,
+        "size": 9815037,
+        "vd": -3.96
+      },
+      "l": {
+        "br": 96000,
+        "fid": 1201766209166638,
+        "size": 2976779,
+        "vd": -3.21
+      },
+      "a": null,
+      "m": {
+        "br": 160000,
+        "fid": 1179775976611118,
+        "size": 4930529,
+        "vd": -3.11
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "Fall in love",
+      "id": 5271552,
+      "privilege": {
+        "id": 5271552,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13727,
+          "name": "4 In Love"
+        }
+      ],
+      "al": {
+        "id": 513038,
+        "name": "\u5de8\u661f\u57ce(2000-2001\u60ca\u9009\u96c6)",
+        "picUrl": "https://p3.music.126.net/IPU3TnB1kG29RUSanJCk6Q==/62672162800271.jpg",
+        "pic_str": "62672162800271",
+        "pic": 62672162800271
+      },
+      "st": 3,
+      "no": 17,
+      "cd": "1",
+      "pst": 0,
+      "crbt": null,
+      "rtUrl": null,
+      "v": 668,
+      "alia": [],
+      "pop": 5.0,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "cf": "",
+      "dt": 234919,
+      "h": {
+        "br": 320000,
+        "fid": 1198467674283289,
+        "size": 9435743,
+        "vd": -2.74
+      },
+      "l": {
+        "br": 96000,
+        "fid": 1201766209166642,
+        "size": 2862993,
+        "vd": -2.36
+      },
+      "a": null,
+      "m": {
+        "br": 160000,
+        "fid": 1198467674283290,
+        "size": 4740884,
+        "vd": -2.31
+      },
+      "mv": 0,
+      "djId": 0,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "t": 0,
+      "fee": 8,
+      "name": "Print my heart",
+      "id": 5271565,
+      "privilege": {
+        "id": 5271565,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 128000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 128000,
+        "toast": false,
+        "flag": 128,
+        "preSell": false
+      }
+    }
+  ]
+}

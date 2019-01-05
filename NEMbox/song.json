@@ -1,0 +1,64 @@
+{
+  "name": "\u4e00\u5343\u96f6\u4e00\u4e2a\u613f\u671b",
+  "id": 398341,
+  "pst": 0,
+  "t": 0,
+  "ar": [
+    {
+      "id": 13727,
+      "name": "4 In Love",
+      "tns": [],
+      "alias": []
+    }
+  ],
+  "alia": [],
+  "pop": 100.0,
+  "st": 0,
+  "rt": "",
+  "fee": 8,
+  "v": 56,
+  "crbt": "981aaae6c70b7060b6c75e75f13ece25",
+  "cf": "",
+  "al": {
+    "id": 39401,
+    "name": "\u8c01\u6015\u8c01",
+    "picUrl": "http://p2.music.126.net/KrpBHzM9iTvPHLctS0Y5rg==/18270584719324655.jpg",
+    "tns": [],
+    "pic_str": "18270584719324655",
+    "pic": 18270584719324655
+  },
+  "dt": 258377,
+  "h": {
+    "br": 320000,
+    "fid": 0,
+    "size": 10336174,
+    "vd": 0.0
+  },
+  "m": {
+    "br": 192000,
+    "fid": 0,
+    "size": 6201722,
+    "vd": 0.0
+  },
+  "l": {
+    "br": 128000,
+    "fid": 0,
+    "size": 4134496,
+    "vd": 0.0
+  },
+  "a": null,
+  "cd": "1",
+  "no": 3,
+  "rtUrl": null,
+  "ftype": 0,
+  "rtUrls": [],
+  "djId": 0,
+  "copyright": 1,
+  "s_id": 0,
+  "mv": 5620431,
+  "mst": 9,
+  "cp": 7001,
+  "rtype": 0,
+  "rurl": null,
+  "publishTime": 995500800000
+}

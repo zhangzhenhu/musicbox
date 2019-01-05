@@ -1,0 +1,1996 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-10-24 14:06:37",
+        "index": 1,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 229,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 71082,
+            "tryend": 93619,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3667789,
+          "size320": 9169177,
+          "size5_1": 0,
+          "sizeape": 26004069,
+          "sizeflac": 26117746,
+          "sizeogg": 5302844,
+          "songid": 205000888,
+          "songmid": "000kbQ6l3srzE5",
+          "songname": "9420",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "000kbQ6l3srzE5",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "h0025sfy0fy"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1380631",
+          "Fstatus": "1",
+          "Fvid": "h0025sfy0fy"
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-03-13 14:25:46",
+        "index": 2,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3953358,
+          "albummid": "003yeNV10Tzs9v",
+          "albumname": "OK歌",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 195,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 28634,
+              "mid": "000TtnRe0mPUAK",
+              "name": "单色凌"
+            }
+          ],
+          "size128": 3124438,
+          "size320": 7810806,
+          "size5_1": 0,
+          "sizeape": 40708673,
+          "sizeflac": 40432169,
+          "sizeogg": 4310697,
+          "songid": 213337011,
+          "songmid": "000gVznU0f0s2X",
+          "songname": "OK歌",
+          "songorig": "OK歌",
+          "songtype": 0,
+          "strMediaMid": "000gVznU0f0s2X",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "w00264kiscx"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1456041",
+          "Fstatus": "1",
+          "Fvid": "w00264kiscx"
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-01-24 16:37:57",
+        "index": 3,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3889624,
+          "albummid": "0028Zu9217BzmT",
+          "albumname": "甜了个蜜",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 235,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 1521580,
+              "mid": "004BHpmw0G9dZG",
+              "name": "校长（张驰）"
+            }
+          ],
+          "size128": 3776041,
+          "size320": 9439617,
+          "size5_1": 0,
+          "sizeape": 27675875,
+          "sizeflac": 27723157,
+          "sizeogg": 5635018,
+          "songid": 212916722,
+          "songmid": "003VuX0F1311pd",
+          "songname": "甜了个蜜",
+          "songorig": "甜了个蜜",
+          "songtype": 0,
+          "strMediaMid": "003VuX0F1311pd",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-04-23 22:25:20",
+        "index": 4,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4024111,
+          "albummid": "000KpLIs3i0d0R",
+          "albumname": "我想",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 187,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 2994033,
+          "size320": 7484796,
+          "size5_1": 0,
+          "sizeape": 42230714,
+          "sizeflac": 42164973,
+          "sizeogg": 4349933,
+          "songid": 213784149,
+          "songmid": "001yDvlj3sJDER",
+          "songname": "我想",
+          "songorig": "我想",
+          "songtype": 0,
+          "strMediaMid": "001yDvlj3sJDER",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-06-21 17:30:35",
+        "index": 5,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4091250,
+          "albummid": "001i4kGX3xtljO",
+          "albumname": "比心",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 176,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 2832281,
+          "size320": 7080418,
+          "size5_1": 0,
+          "sizeape": 38726931,
+          "sizeflac": 38876662,
+          "sizeogg": 4200116,
+          "songid": 214158307,
+          "songmid": "004LEz3b2u7Yvh",
+          "songname": "比心",
+          "songorig": "比心",
+          "songtype": 0,
+          "strMediaMid": "004LEz3b2u7Yvh",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-06-04 16:58:36",
+        "index": 6,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4067428,
+          "albummid": "004MJ2zM0ESvfR",
+          "albumname": "害羞",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 191,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 1573958,
+              "mid": "002Jhik52k49N3",
+              "name": "郭聪明"
+            }
+          ],
+          "size128": 3072608,
+          "size320": 7681235,
+          "size5_1": 0,
+          "sizeape": 42879691,
+          "sizeflac": 42743972,
+          "sizeogg": 4482962,
+          "songid": 214052929,
+          "songmid": "000wkhmZ1VxPQG",
+          "songname": "害羞",
+          "songorig": "害羞",
+          "songtype": 0,
+          "strMediaMid": "000wkhmZ1VxPQG",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-12-07 15:37:11",
+        "index": 7,
+        "isnew": 1,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 5510699,
+          "albummid": "001ziUMh1K5rXf",
+          "albumname": "双子座",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 196,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3148680,
+          "size320": 7871410,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 41052661,
+          "sizeogg": 4468669,
+          "songid": 224606856,
+          "songmid": "000gOKu62rioH7",
+          "songname": "双子座",
+          "songorig": "双子座",
+          "songtype": 0,
+          "strMediaMid": "000gOKu62rioH7",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-11-22 16:08:38",
+        "index": 8,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3298640,
+          "albummid": "002aEG9e0hqfCL",
+          "albumname": "My first song",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 204,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3277869,
+          "size320": 8194323,
+          "size5_1": 0,
+          "sizeape": 25682779,
+          "sizeflac": 25827061,
+          "sizeogg": 5039209,
+          "songid": 211886405,
+          "songmid": "000sdoEZ3YLNPS",
+          "songname": "My first song",
+          "songorig": "My first song",
+          "songtype": 0,
+          "strMediaMid": "000sdoEZ3YLNPS",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "b0025zob5gm"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1436990",
+          "Fstatus": "1",
+          "Fvid": "b0025zob5gm"
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-01-29 13:01:23",
+        "index": 9,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3896920,
+          "albummid": "004fPRYx2Z37xl",
+          "albumname": "那个她是你",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 258,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 2089337,
+              "mid": "0035xzeT4f0Jxc",
+              "name": "林小坤"
+            },
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 4137580,
+          "size320": 10343647,
+          "size5_1": 0,
+          "sizeape": 29787885,
+          "sizeflac": 29647918,
+          "sizeogg": 6230437,
+          "songid": 212977186,
+          "songmid": "001dnSbP4VKqA1",
+          "songname": "那个她是你",
+          "songorig": "那个她是你",
+          "songtype": 0,
+          "strMediaMid": "001dnSbP4VKqA1",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": "o00258or1hh"
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fmv_id": "1448708",
+          "Fstatus": "1",
+          "Fvid": "o00258or1hh"
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-10-15 15:46:39",
+        "index": 10,
+        "isnew": 1,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4794692,
+          "albummid": "002PKVm50zUsNw",
+          "albumname": "小确幸",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 224,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 970047,
+              "mid": "002lgI7U3mrXXf",
+              "name": "朱贺"
+            }
+          ],
+          "size128": 3600076,
+          "size320": 8999900,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 48751745,
+          "sizeogg": 5186327,
+          "songid": 218191157,
+          "songmid": "0032ZnBW3Eg3IP",
+          "songname": "小确幸",
+          "songorig": "小确幸",
+          "songtype": 0,
+          "strMediaMid": "0032ZnBW3Eg3IP",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-12-01 15:47:55",
+        "index": 11,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3322908,
+          "albummid": "0026pSAZ13npUO",
+          "albumname": "小叮当",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 215,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3448775,
+          "size320": 8621647,
+          "size5_1": 0,
+          "sizeape": 24394915,
+          "sizeflac": 24576778,
+          "sizeogg": 5233291,
+          "songid": 212043646,
+          "songmid": "004c4gUB3zwWG1",
+          "songname": "小叮当",
+          "songorig": "小叮当",
+          "songtype": 0,
+          "strMediaMid": "004c4gUB3zwWG1",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-08-16 16:23:58",
+        "index": 12,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4359969,
+          "albummid": "003TJTYe49eTFP",
+          "albumname": "魔力夏日",
+          "alertid": 2,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 180,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 2883280,
+          "size320": 7207480,
+          "size5_1": 0,
+          "sizeape": 39549123,
+          "sizeflac": 39506612,
+          "sizeogg": 3972230,
+          "songid": 215831173,
+          "songmid": "000NmDxZ1K1TEc",
+          "songname": "魔力夏日",
+          "songorig": "魔力夏日",
+          "songtype": 0,
+          "strMediaMid": "000NmDxZ1K1TEc",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-04-25 13:57:17",
+        "index": 13,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 240,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3841690,
+          "size320": 9603885,
+          "size5_1": 0,
+          "sizeape": 30287830,
+          "sizeflac": 29826048,
+          "sizeogg": 5712451,
+          "songid": 213801392,
+          "songmid": "000bGeNw1pNsxG",
+          "songname": "9420 (DJheap九天版)",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "000bGeNw1pNsxG",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-10-18 19:29:13",
+        "index": 14,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 5,
+          "cdIdx": 0,
+          "interval": 46,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 750042,
+          "size320": 1874363,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 5968436,
+          "sizeogg": 1073846,
+          "songid": 218485206,
+          "songmid": "003eYMl12Gg9gB",
+          "songname": "9420 (skr版)",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "003eYMl12Gg9gB",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-10-24 14:06:37",
+        "index": 15,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 229,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3676985,
+          "size320": 9192165,
+          "size5_1": 0,
+          "sizeape": 20752821,
+          "sizeflac": 21066741,
+          "sizeogg": 5610027,
+          "songid": 205000887,
+          "songmid": "002PI4Rt49vhPg",
+          "songname": "9420 (伴奏)",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "002PI4Rt49vhPg",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-05-30 15:32:01",
+        "index": 16,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3889624,
+          "albummid": "0028Zu9217BzmT",
+          "albumname": "甜了个蜜",
+          "alertid": 21,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 242,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 1521580,
+              "mid": "004BHpmw0G9dZG",
+              "name": "校长（张驰）"
+            }
+          ],
+          "size128": 3878049,
+          "size320": 9694787,
+          "size5_1": 0,
+          "sizeape": 32164966,
+          "sizeflac": 31655737,
+          "sizeogg": 6103965,
+          "songid": 214037164,
+          "songmid": "000k9bSG4Cgzkf",
+          "songname": "甜了个蜜 (DJ版)",
+          "songorig": "甜了个蜜",
+          "songtype": 0,
+          "strMediaMid": "000k9bSG4Cgzkf",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-05-30 15:32:03",
+        "index": 17,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3322908,
+          "albummid": "0026pSAZ13npUO",
+          "albumname": "小叮当",
+          "alertid": 21,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 223,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3579618,
+          "size320": 8948722,
+          "size5_1": 0,
+          "sizeape": 30775880,
+          "sizeflac": 30381825,
+          "sizeogg": 5785576,
+          "songid": 214037171,
+          "songmid": "0007vOjM1V5MII",
+          "songname": "小叮当 (DJ版)",
+          "songorig": "小叮当",
+          "songtype": 0,
+          "strMediaMid": "0007vOjM1V5MII",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-10-18 19:27:10",
+        "index": 18,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3953358,
+          "albummid": "003yeNV10Tzs9v",
+          "albumname": "OK歌",
+          "alertid": 21,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 51,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 28634,
+              "mid": "000TtnRe0mPUAK",
+              "name": "单色凌"
+            }
+          ],
+          "size128": 822319,
+          "size320": 2055508,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 11175087,
+          "sizeogg": 1153806,
+          "songid": 218485201,
+          "songmid": "000ILtu01Ir3AA",
+          "songname": "OK歌 (skr版)",
+          "songorig": "OK歌",
+          "songtype": 0,
+          "strMediaMid": "000Rxn3o3Q4K4V",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-12-07 15:37:11",
+        "index": 19,
+        "isnew": 1,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 5510699,
+          "albummid": "001ziUMh1K5rXf",
+          "albumname": "双子座",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 196,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3148680,
+          "size320": 7871152,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 39865086,
+          "sizeogg": 4667091,
+          "songid": 224606855,
+          "songmid": "0017ZKFd4Q5a6m",
+          "songname": "双子座 (伴奏)",
+          "songorig": "双子座",
+          "songtype": 0,
+          "strMediaMid": "0017ZKFd4Q5a6m",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-10-18 19:29:13",
+        "index": 20,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 6,
+          "cdIdx": 0,
+          "interval": 55,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 882957,
+          "size320": 2207052,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 6945943,
+          "sizeogg": 1315319,
+          "songid": 218485205,
+          "songmid": "002u8heK3ZSx1V",
+          "songname": "9420 (DJskr版)",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "002u8heK3ZSx1V",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-05-30 15:32:04",
+        "index": 21,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3298640,
+          "albummid": "002aEG9e0hqfCL",
+          "albumname": "My first song",
+          "alertid": 21,
+          "belongCD": 3,
+          "cdIdx": 0,
+          "interval": 193,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3089370,
+          "size320": 7723075,
+          "size5_1": 0,
+          "sizeape": 24967615,
+          "sizeflac": 24493793,
+          "sizeogg": 4707396,
+          "songid": 214037176,
+          "songmid": "000gmD7V1hyF7g",
+          "songname": "My first song (DJ版)",
+          "songorig": "My first song",
+          "songtype": 0,
+          "strMediaMid": "000gmD7V1hyF7g",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-04-25 13:57:18",
+        "index": 22,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 2374560,
+          "albummid": "002DbpNa1zRNqa",
+          "albumname": "9420",
+          "alertid": 21,
+          "belongCD": 4,
+          "cdIdx": 0,
+          "interval": 240,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3841698,
+          "size320": 9603893,
+          "size5_1": 0,
+          "sizeape": 29120862,
+          "sizeflac": 28651896,
+          "sizeogg": 5952838,
+          "songid": 213801393,
+          "songmid": "000RbhxO3vcNFT",
+          "songname": "9420 (DJheap九天版伴奏)",
+          "songorig": "9420",
+          "songtype": 0,
+          "strMediaMid": "000RbhxO3vcNFT",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-03-13 14:25:45",
+        "index": 23,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3953358,
+          "albummid": "003yeNV10Tzs9v",
+          "albumname": "OK歌",
+          "alertid": 21,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 195,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 28634,
+              "mid": "000TtnRe0mPUAK",
+              "name": "单色凌"
+            }
+          ],
+          "size128": 3136559,
+          "size320": 7841108,
+          "size5_1": 0,
+          "sizeape": 38753953,
+          "sizeflac": 38548826,
+          "sizeogg": 4805853,
+          "songid": 213337010,
+          "songmid": "003yob7l3YKUm8",
+          "songname": "OK歌 (伴奏)",
+          "songorig": "OK歌",
+          "songtype": 0,
+          "strMediaMid": "003yob7l3YKUm8",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-06-04 16:58:36",
+        "index": 24,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4067428,
+          "albummid": "004MJ2zM0ESvfR",
+          "albumname": "害羞",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 191,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 1573958,
+              "mid": "002Jhik52k49N3",
+              "name": "郭聪明"
+            }
+          ],
+          "size128": 3072608,
+          "size320": 7681235,
+          "size5_1": 0,
+          "sizeape": 41725611,
+          "sizeflac": 41681024,
+          "sizeogg": 4730649,
+          "songid": 214052930,
+          "songmid": "001VMDCi3Q1Sbf",
+          "songname": "害羞 (伴奏)",
+          "songorig": "害羞",
+          "songtype": 0,
+          "strMediaMid": "001VMDCi3Q1Sbf",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-01-24 16:37:57",
+        "index": 25,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3889624,
+          "albummid": "0028Zu9217BzmT",
+          "albumname": "甜了个蜜",
+          "alertid": 21,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 235,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 1521580,
+              "mid": "004BHpmw0G9dZG",
+              "name": "校长（张驰）"
+            }
+          ],
+          "size128": 3776041,
+          "size320": 9439782,
+          "size5_1": 0,
+          "sizeape": 26682103,
+          "sizeflac": 26747909,
+          "sizeogg": 6005351,
+          "songid": 212916721,
+          "songmid": "004SR7hj3Tn5Zx",
+          "songname": "甜了个蜜 (伴奏)",
+          "songorig": "甜了个蜜",
+          "songtype": 0,
+          "strMediaMid": "004SR7hj3Tn5Zx",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-10-15 15:46:39",
+        "index": 26,
+        "isnew": 1,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4794692,
+          "albummid": "002PKVm50zUsNw",
+          "albumname": "小确幸",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 224,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 23,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            },
+            {
+              "id": 970047,
+              "mid": "002lgI7U3mrXXf",
+              "name": "朱贺"
+            }
+          ],
+          "size128": 3600076,
+          "size320": 8999900,
+          "size5_1": 0,
+          "sizeape": 0,
+          "sizeflac": 47965709,
+          "sizeogg": 5377819,
+          "songid": 218191156,
+          "songmid": "002LOxOj2AcNSf",
+          "songname": "小确幸 (伴奏)",
+          "songorig": "小确幸",
+          "songtype": 0,
+          "strMediaMid": "002LOxOj2AcNSf",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-11-22 16:08:38",
+        "index": 27,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3298640,
+          "albummid": "002aEG9e0hqfCL",
+          "albumname": "My first song",
+          "alertid": 21,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 204,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3277869,
+          "size320": 8194323,
+          "size5_1": 0,
+          "sizeape": 24636703,
+          "sizeflac": 24860625,
+          "sizeogg": 5211679,
+          "songid": 211886406,
+          "songmid": "001lxC6i1jn28J",
+          "songname": "My first song (伴奏)",
+          "songorig": "My first song",
+          "songtype": 0,
+          "strMediaMid": "001lxC6i1jn28J",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-06-21 17:30:35",
+        "index": 28,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4091250,
+          "albummid": "001i4kGX3xtljO",
+          "albumname": "比心",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 176,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 2832281,
+          "size320": 7079866,
+          "size5_1": 0,
+          "sizeape": 37679927,
+          "sizeflac": 37921184,
+          "sizeogg": 4481175,
+          "songid": 214158304,
+          "songmid": "00113D0K28T1Fh",
+          "songname": "比心 (伴奏)",
+          "songorig": "比心",
+          "songtype": 0,
+          "strMediaMid": "00113D0K28T1Fh",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2017-12-01 17:18:56",
+        "index": 29,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 3322908,
+          "albummid": "0026pSAZ13npUO",
+          "albumname": "小叮当",
+          "alertid": 21,
+          "belongCD": 1,
+          "cdIdx": 0,
+          "interval": 215,
+          "isonly": 1,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 3448787,
+          "size320": 8621659,
+          "size5_1": 0,
+          "sizeape": 23141245,
+          "sizeflac": 23350821,
+          "sizeogg": 5431136,
+          "songid": 212044832,
+          "songmid": "000gb2B90rjtkn",
+          "songname": "小叮当 (伴奏)",
+          "songorig": "小叮当",
+          "songtype": 0,
+          "strMediaMid": "000gb2B90rjtkn",
+          "stream": 13,
+          "switch": 17413891,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      },
+      {
+        "Flisten_count1": 0,
+        "Fupload_time": "2018-04-23 22:25:20",
+        "index": 30,
+        "isnew": 0,
+        "listenCount": 0,
+        "musicData": {
+          "albumdesc": "",
+          "albumid": 4024111,
+          "albummid": "000KpLIs3i0d0R",
+          "albumname": "我想",
+          "alertid": 2,
+          "belongCD": 2,
+          "cdIdx": 0,
+          "interval": 187,
+          "isonly": 0,
+          "label": "0",
+          "msgid": 14,
+          "pay": {
+            "payalbum": 0,
+            "payalbumprice": 0,
+            "paydownload": 1,
+            "payinfo": 1,
+            "payplay": 0,
+            "paytrackmouth": 1,
+            "paytrackprice": 200,
+            "timefree": 0
+          },
+          "preview": {
+            "trybegin": 0,
+            "tryend": 0,
+            "trysize": 0
+          },
+          "rate": 31,
+          "singer": [
+            {
+              "id": 1560445,
+              "mid": "002btzGY28mJnT",
+              "name": "麦小兜"
+            }
+          ],
+          "size128": 2994033,
+          "size320": 7484796,
+          "size5_1": 0,
+          "sizeape": 41061758,
+          "sizeflac": 40977100,
+          "sizeogg": 4641592,
+          "songid": 213784148,
+          "songmid": "003QGWjU23uujI",
+          "songname": "我想 (伴奏)",
+          "songorig": "我想",
+          "songtype": 0,
+          "strMediaMid": "003QGWjU23uujI",
+          "stream": 13,
+          "switch": 17409795,
+          "type": 0,
+          "vid": ""
+        },
+        "playurl": "",
+        "price": 320,
+        "vid": {
+          "Fstatus": null
+        }
+      }
+    ],
+    "singer_id": "1560445",
+    "singer_mid": "002btzGY28mJnT",
+    "singer_name": "麦小兜",
+    "total": 32
+  },
+  "message": "succ",
+  "subcode": 0
+}

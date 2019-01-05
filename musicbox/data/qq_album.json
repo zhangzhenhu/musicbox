@@ -1,0 +1,191 @@
+{
+  "code": 0,
+  "data": {
+    "aDate": "2018-08-02",
+    "albumTips": "",
+    "color": 6332608,
+    "company": "永稻星娱乐",
+    "company_new": {
+      "brief": "",
+      "headPic": "",
+      "id": 36341,
+      "is_show": 1,
+      "name": "永稻星娱乐"
+    },
+    "cur_song_num": 3,
+    "desc": "万众翘首，蔡徐坤“出道”后首张个人EP《1》在QQ音乐重磅首发。\n\n三首单曲，三种风格\n此次EP风格融合了Future R&B/Urban R&B的元素，若要用一个词定义风格，那便是「KUN」——独属于蔡徐坤，每一个旋律点都是从他灵魂深处的所有情绪角落传递而出。\n\n《It's You》 X 大爱\n“像诗，像电影，像故事”是蔡徐坤对这首歌的形容。跳出日常的枷锁。拒绝一切国界与风格的标榜，尝试诠释人类最原始的感情，即，「大爱」。\n这首作品在蔡徐坤体内沉淀已久，制作过程更象是一种灵感爆炸的情绪复原：第一天作曲，第一晚写词，第二天制作，一气呵成。“感觉象是老天送给我的音乐礼物。”\n\n《Pull Up》 X 释放\n蔡徐坤19岁的人生像一颗硬糖，磕破过几个角，甜味却顽强得绝不降下一度——他早已成型了，他始终坚持着。《Pull Up》这首歌把恋爱中精致细腻的情感藏进了慵懒曲调中，有着一种因为未经修饰流露出的性感。仔细一品，里面有回忆中的茫然无奈，也有眼前的释怀感性。他把自己最柔软的部分一丝不落地释放在了歌里，MV的大部分想法也来自于他自己。 是心灵全盘托出的一次深呼吸。\n\n《You Can Be My GirlFriend》 X 热烈。  流行hip-hop元素结合即兴创作，这首带动性极强的作品便产生了。《You Can Be My GirlFriend》的情绪动线是直接的、热烈的，大脑还未接受，身体已然舞动。\n\n在EP发行前，各方都有关于收费的声音传到蔡徐坤这里，但统统被他回绝。\n“这次的歌曲也是我对粉丝、对ikun们的回馈，谢谢你们漫长的陪伴和等待，还有送我出道。一路走来非常的辛苦，真的真的很感动！”\n花花世界，静守己心。\nKUN&IKUN, COMING HOME.",
+    "genre": "Pop 流行",
+    "id": 4243104,
+    "lan": "国语",
+    "list": [
+      {
+        "albumdesc": "",
+        "albumid": 4243104,
+        "albummid": "002wdavM3BDAQ3",
+        "albumname": "1",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 185,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 1016794,
+            "mid": "002nXp292LIOGV",
+            "name": "蔡徐坤"
+          }
+        ],
+        "size128": 2974395,
+        "size320": 7435692,
+        "size5_1": 0,
+        "sizeape": 23931391,
+        "sizeflac": 24052190,
+        "sizeogg": 4374285,
+        "songid": 215308672,
+        "songmid": "004VMZFB1Sgnoz",
+        "songname": "Pull Up",
+        "songorig": "Pull Up",
+        "songtype": 0,
+        "strMediaMid": "004VMZFB1Sgnoz",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "m00276ac6gi"
+      },
+      {
+        "albumdesc": "",
+        "albumid": 4243104,
+        "albummid": "002wdavM3BDAQ3",
+        "albumname": "1",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 184,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 1016794,
+            "mid": "002nXp292LIOGV",
+            "name": "蔡徐坤"
+          }
+        ],
+        "size128": 2947680,
+        "size320": 7368852,
+        "size5_1": 0,
+        "sizeape": 23081564,
+        "sizeflac": 23273914,
+        "sizeogg": 4817584,
+        "songid": 215308673,
+        "songmid": "000syT4u2bWoWa",
+        "songname": "You Can Be My GirlFriend",
+        "songorig": "You Can Be My GirlFriend",
+        "songtype": 0,
+        "strMediaMid": "000syT4u2bWoWa",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      {
+        "albumdesc": "",
+        "albumid": 4243104,
+        "albummid": "002wdavM3BDAQ3",
+        "albumname": "1",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 225,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 1016794,
+            "mid": "002nXp292LIOGV",
+            "name": "蔡徐坤"
+          }
+        ],
+        "size128": 3609277,
+        "size320": 9022894,
+        "size5_1": 0,
+        "sizeape": 30000288,
+        "sizeflac": 29951162,
+        "sizeogg": 5742146,
+        "songid": 215308675,
+        "songmid": "003custc49mKeO",
+        "songname": "It's You",
+        "songorig": "It's You",
+        "songtype": 0,
+        "strMediaMid": "003FJerc0UlS0M",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      }
+    ],
+    "mid": "002wdavM3BDAQ3",
+    "name": "1",
+    "radio_anchor": 0,
+    "singerid": 1016794,
+    "singermblog": "",
+    "singermid": "002nXp292LIOGV",
+    "singername": "蔡徐坤",
+    "song_begin": 0,
+    "total": 3,
+    "total_song_num": 3
+  },
+  "message": "succ",
+  "subcode": 0
+}
