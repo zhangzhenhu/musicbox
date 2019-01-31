@@ -352,8 +352,10 @@ class QQSong(Song):
 
     def _get_dl_link(self, ft='flac'):
 
-        vkey = '1146B2D2E8D3E2E9990266B0D1476AAA4B2D058DB61EF7C98F1A6A44C3A4E2ECF8FDE15B5CE0DA8BED5048D10953F5F19F9817F6836212F4'
-        media_mid = self['strMediaMid'] or self['file']['media_mid']
+        # vkey = ''
+        vkey = '1807FB4D65616A26F8063D4AC7DF72D63BF4ACA9CE87B1E63CB19A7472B9E577C5D3A3E2A81546DECD066194E09116E0A54DF62713C80DB9'
+
+        media_mid = self.get('strMediaMid', None) or self['file']['media_mid']
         if ft == 'flac':
             return 'http://streamoc.music.tc.qq.com/F000{media_mid}.flac?vkey={vkey}&guid={guid}&uin=1008611&fromtag=8'.format(
                 media_mid=media_mid, vkey=vkey, guid=self.guid)
@@ -469,24 +471,36 @@ class QQMusic(Platform):
         json = r.json()
         return json
 
-    def down_by_artist(self, mid,save_path='/Users/zhangzhenhu/Music/mymusic/'):
+    def down_by_artist(self, mid, save_path='/Users/zhangzhenhu/Music/mymusic/'):
 
         for song in self.get_artist_by_mid(mid):
             print("")
             song.extend()
             song.download(save_path)
 
-    def download_by_playlist(self,id,save_path):
+    def download_by_playlist(self, id, save_path):
         playlist = qq.get_playlist_by_id(id=id)  # 我自己的
         for song in list(playlist.get_songs()):
             print("")
             song.extend()
             song.download(save_path)
 
+    def download_song_by_mid(self, mid, save_path='/Users/zhangzhenhu/Music/mymusic/'):
+        song = self.get_song_by_mid(mid)
+        song.extend(mid)
+        song.download(save_path)
+
+
 if __name__ == "__main__":
+
+    """
+    qq 无损音乐下载网站 http://music.mzz.pub/
+    vkey 可以从这个网站获取
+    """
     qq = QQMusic()
 
-    qq.down_by_artist('002btzGY28mJnT')
+    # qq.down_by_artist('002btzGY28mJnT')
+    qq.download_song_by_mid('002KFiXS2EJTrs')
     quit()
 
     # playlist = qq.get_playlist_by_id(id='863753969')
